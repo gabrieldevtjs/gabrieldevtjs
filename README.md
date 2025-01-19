@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá, sou José Gabriel, tenho 18 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android. Estou sempre buscando me aprimorar para me tornar um profissional de destaque na área de tecnologia.
+Olá, me chamo José Gabriel, tenho 18 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android. Estou sempre buscando me aprimorar para me tornar um profissional de destaque na área de tecnologia.
 
 
 ---
