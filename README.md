@@ -8,8 +8,9 @@ Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Eng
 ### Tecnologias
 
 ![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
 ![React Navigation](https://img.shields.io/badge/React_Navigation-000?style=flat-square&logo=react)
+![Reactotron](https://img.shields.io/badge/Reactotron-000?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
@@ -20,6 +21,12 @@ Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Eng
 ![APISauce](https://img.shields.io/badge/APISauce-000?style=flat-square&logo=axios)
 ![MVVM](https://img.shields.io/badge/MVVM-000?style=flat-square&logo=databricks)
 ![Offline First](https://img.shields.io/badge/Offline_First-000?style=flat-square&logo=databricks)
+![MMKV](https://img.shields.io/badge/MMKV-000?style=flat-square&logo=databricks)
+![WatermelonDB](https://img.shields.io/badge/WatermelonDB-000?style=flat-square&logo=databricks)
+![RealmJs](https://img.shields.io/badge/Realm-000?style=flat-square&logo=realm)
+![Vertical Architecture](https://img.shields.io/badge/Arquitetura_Vertical-000?style=flat-square&logo=databricks)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-000?style=flat-square&logo=apple)
+![Play Console](https://img.shields.io/badge/Play_Console-000?style=flat-square&logo=googleplay)
 
 ---
 
