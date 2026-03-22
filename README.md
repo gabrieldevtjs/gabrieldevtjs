@@ -1,119 +1,30 @@
-# 👩🏻‍💻 José Gabriel
-**Desenvolvedor Full Stack**
-Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android. Estou sempre buscando me aprimorar para me tornar um profissional de destaque na área de tecnologia.
+# José Gabriel
+**Full Stack Developer**
+
+Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android.
+
 ---
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TailwindCSS"
-    title="TailwindCSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Prisma"
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase"
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
-/>
-<br/>
-<br/>
-### 📊 Estatísticas
+
+### Tecnologias
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
+
+---
+
+### Estatísticas
+
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevtjs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevtjs&theme=github_dark&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" />
 </p>
