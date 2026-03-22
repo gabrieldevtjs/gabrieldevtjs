@@ -1,7 +1,7 @@
 # José Gabriel
-**Full Stack Mobile Developer**
+**Full Stack Developer**
 
-Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Engenharia de Software no Instituto de Tecnologia Fucapi, possuo cerca de 2 anos de experiência em desenvolvimento mobile com React Native e tecnologias do seu ecossistema, atuando na criação de aplicações reais, incluindo publicação nas lojas, integração com APIs e aplicação de boas práticas para construir soluções eficientes e escaláveis.
+Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android.
 
 ---
 
@@ -23,9 +23,8 @@ Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Eng
 
 ---
 
+![](./ninja.svg)
+
 ### Estatísticas
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevtjs&theme=github_dark&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" />
-</p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&card_width=800" />
