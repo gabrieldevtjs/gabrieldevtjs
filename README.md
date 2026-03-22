@@ -7,18 +7,26 @@ Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualment
 
 ### Tecnologias
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
+![React Navigation](https://img.shields.io/badge/React_Navigation-000?style=flat-square&logo=react)
+
+**State & Data**
+![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square&logo=react)
+![Legend State](https://img.shields.io/badge/Legend_State-000?style=flat-square&logo=react)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery)
+![APISauce](https://img.shields.io/badge/APISauce-000?style=flat-square&logo=axios)
+
+**Backend & Infra**
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+
+**Arquitetura**
+![MVVM](https://img.shields.io/badge/MVVM-000?style=flat-square&logo=databricks)
+![Offline First](https://img.shields.io/badge/Offline_First-000?style=flat-square&logo=databricks)
 
 ---
 
