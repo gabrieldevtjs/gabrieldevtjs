@@ -23,7 +23,6 @@ Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Eng
 ![Offline First](https://img.shields.io/badge/Offline_First-000?style=flat-square&logo=databricks)
 ![MMKV](https://img.shields.io/badge/MMKV-000?style=flat-square&logo=databricks)
 ![WatermelonDB](https://img.shields.io/badge/WatermelonDB-000?style=flat-square&logo=databricks)
-![Realm](https://img.shields.io/badge/Realm-000?style=flat-square&logo=realm)
 ![Vertical Architecture](https://img.shields.io/badge/Arquitetura_Vertical-000?style=flat-square&logo=databricks)
 ![App Store Connect](https://img.shields.io/badge/App_Store_Connect-000?style=flat-square&logo=apple)
 ![Play Console](https://img.shields.io/badge/Play_Console-000?style=flat-square&logo=googleplay)
