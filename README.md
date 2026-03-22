@@ -1,128 +1,74 @@
-# 👩🏻‍💻 José Gabriel
+<div align="center">
 
-**`Desenvolvedor Full Stack`**
+```
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
 
-Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android. Estou sempre buscando me aprimorar para me tornar um profissional de destaque na área de tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Mobile+Engineer+%F0%9F%93%B1;React+Native+%2B+Expo;TypeScript+%2F+Node.js;Amazonas+%E2%86%92+Brasil" alt="Typing SVG" />
 
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&locale=pt-br" height="165"/>
 
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TailwindCSS"
-    title="TailwindCSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Prisma"
-    title="Prisma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase"
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
-/>
-<br/>
-<br/>
+### `> whoami`
 
-### 📊 Estatísticas
+```ts
+const gabriel = {
+  nome:     "José Gabriel",
+  idade:    19,
+  local:    "Amazonas, Brasil 🌿",
+  foco:     "Mobile Engineering",
+  curso:    "Engenharia de Software — Fucapi",
+  obsessão: ["React Native", "arquitetura limpa", "DX"],
+} satisfies Developer;
+```
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrieldevtjs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<br clear="right"/>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevtjs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+---
+
+### `> stack --mobile`
+
+<div align="center">
+
+| **Core** | **State & Data** | **Backend** | **DB** |
+|:---:|:---:|:---:|:---:|
+| ![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TanStack Query](https://img.shields.io/badge/TanStack_Query-0d0d0d?style=for-the-badge&logo=reactquery&logoColor=FF4154) | ![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=E0234E) | ![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28) |
+| ![Expo](https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=ffffff) | ![Zustand](https://img.shields.io/badge/Zustand-0d0d0d?style=for-the-badge&logo=react&logoColor=ffffff) | ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933) | ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Legend State](https://img.shields.io/badge/Legend_State-0d0d0d?style=for-the-badge&logo=react&logoColor=ffffff) | ![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=for-the-badge&logo=prisma&logoColor=ffffff) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4169E1) |
+
+</div>
+
+---
+
+### `> philosophy`
+
+```
+  MVVM  ·  Clean Architecture  ·  Offline-first  ·  Type Safety
+       ────────────────────────────────────────────
+       "build for the user, architect for the future"
+```
+
+---
+
+### `> stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldevtjs&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&layout=compact&custom_title=linguagens&langs_count=8" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabrieldevtjs&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="160"/>
+</div>
+
+---
+
+<div align="center">
+
+`Amazonas · 19 · Mobile Engineer · always building`
+
+</div>
