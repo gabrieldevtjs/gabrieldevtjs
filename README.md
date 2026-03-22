@@ -1,7 +1,7 @@
 # José Gabriel
-**Full Stack Developer**
+**Full Stack Mobile Developer**
 
-Olá, me chamo José Gabriel, tenho 19 anos e sou natural do Amazonas. Atualmente, curso Engenharia de Software no Instituto de Tecnologia Fucapi. Tenho paixão pelo desenvolvimento de sistemas, com foco em JavaScript, TypeScript e mobile, especialmente Android.
+Olá, me chamo José Gabriel, tenho 19 anos, sou natural do Amazonas e curso Engenharia de Software no Instituto de Tecnologia Fucapi, possuo cerca de 2 anos de experiência em desenvolvimento mobile com React Native e tecnologias do seu ecossistema, atuando na criação de aplicações reais, incluindo publicação nas lojas, integração com APIs e aplicação de boas práticas para construir soluções eficientes e escaláveis.
 
 ---
 
